@@ -6,6 +6,7 @@ using std::endl;
 
 int main()
 {
+
 	cout << Array::DEFAULT_VALUE << endl;
 	cout << Array::DEFAULT_SIZE <<endl;
 	
