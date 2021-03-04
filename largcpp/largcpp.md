@@ -96,3 +96,7 @@ inadvertent instantiation
 > **次要设计规则**  
 在每个头文件预处理器的包含指令周围，放置一个冗余（外部）包含guards。
 
+
+
+
+
